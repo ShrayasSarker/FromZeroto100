@@ -35,7 +35,8 @@ Cubethon is a fast-paced, cube-based challenge game focused on:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShrayasSarker/FromZeroto100.git
+   git clone
+   https://github.com/ShrayasSarker/FromZeroto100.git
 .Open the project with unity.
 .Click Play to run the game in the editor.
 .Use WASD to move the cude.
